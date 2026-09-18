@@ -21,9 +21,9 @@ while True:
             continue
 
         if choice == '1':
-            print(f"Result: {add.add(num1, num2)}")
+            print(f"Result: {Additon.add(num1, num2)}")
         elif choice == '2':
-            print(f"Result: {subtract.subtract(num1, num2)}")
+            print(f"Result: {Subtraction.subtraction(num1, num2)}")
         elif choice == '3':
             print(f"Result: {multiply.multiply(num1, num2)}")
         elif choice == '4':
