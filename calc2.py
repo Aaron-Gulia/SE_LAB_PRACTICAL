@@ -1,5 +1,5 @@
-import add
-import subtract
+import Addition
+import Subtraction
 import multiply
 import divide
 
